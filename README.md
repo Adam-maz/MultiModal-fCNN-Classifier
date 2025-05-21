@@ -15,7 +15,7 @@ Additionally, we offer a **plugin for Maestro Schrödinger** to automate the pro
 - **Compatibility_versions.txt** — describes compatible versions of required libraries/frameworks  
 - **ChEMBL_Parser.ipynb** — notebook for parsing ligands from the ChEMBL database  
 - **Spreadsheet_script** — script that generates a `.csv` file containing the "Entry ID" of the best-scoring conformer (based on Docking Score or State Penalty) per ligand  
-- **fCNN_Maestro_Plugin/** — plugin for Maestro that automates molecule selection and screenshot capturing  
+- **fCNN_Maestro_Plugin** — plugin for Maestro that automates molecule selection and screenshot capturing  
 - **fCNN_launching_dir/** — directory containing example files (images and SMILES of two example ligands) and pre-trained models in the `trained_models/` subfolder  
 - **CNN_notebook.ipynb** — notebook implementing the CNN-based model using images  
 - **Fingerprints_notebook.ipynb** — notebook implementing the fingerprint-based model  
