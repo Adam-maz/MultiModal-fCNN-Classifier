@@ -50,19 +50,10 @@ To use the `fCNN_launcher.ipynb` script:
 
 The following models are too large for GitHub (>50MB), so we provide them via **Google Drive**.  
 > ⚠ Make sure to place each file in the correct folder as indicated:
-
-- [`CNN_docking_model_with_fps_old_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1f4SlOxRQHCDQiCXcJ-nJqoauLLmxows8)  
-  → place in: `fCNN_launching_dir/`
-
-- [`CNN_docking_model_with_fps_new_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1kJoNoc_p4cGq4OsWfmK6xjgQSr5B5eK1)  
-  → place in: `fCNN_launching_dir/trained_models/`
-
-- [`CNN_quanta_model_with_fps_old_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1laCxwhyFIoL4OQc5woNWkvESPL7hWRGR)  
-  → place in: `fCNN_launching_dir/trained_models/`
-
-- [`CNN_quanta_model_with_fps_new_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1yRvpoXy-rWkkOanDVh_lElgbVpl-9Yop)  
-  → place in: `fCNN_launching_dir/trained_models/`
-
+- [`CNN_docking_model_with_fps_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1yRvpoXy-rWkkOanDVh_lElgbVpl-9Yop)
+- [`CNN_quanta_model_with_fps_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1laCxwhyFIoL4OQc5woNWkvESPL7hWRGR)
+- [`CNN_docking_model_with_fps_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1f4SlOxRQHCDQiCXcJ-nJqoauLLmxows8)
+- [`CNN_quanta_model_with_fps_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1kJoNoc_p4cGq4OsWfmK6xjgQSr5B5eK1)     
 ---
 
 ## 📌 Notes
