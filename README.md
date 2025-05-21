@@ -46,14 +46,16 @@ To use the `fCNN_launcher.ipynb` script:
 
 ---
 
-## 🔗 Download Trained Models
+## 🔗 Download Trained Models and Datasets
 
-The following models are too large for GitHub (>50MB), so we provide them via **Google Drive**.  
-> ⚠ Make sure to place each file in the correct folder as indicated:
+The following models and datasets are too large for GitHub (>50MB), so we provide them via **Google Drive**.  
+> Content:
 - [`CNN_docking_model_with_fps_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1yRvpoXy-rWkkOanDVh_lElgbVpl-9Yop)
 - [`CNN_quanta_model_with_fps_architecture_I.joblib`](https://drive.google.com/uc?export=download&id=1laCxwhyFIoL4OQc5woNWkvESPL7hWRGR)
 - [`CNN_docking_model_with_fps_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1f4SlOxRQHCDQiCXcJ-nJqoauLLmxows8)
-- [`CNN_quanta_model_with_fps_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1kJoNoc_p4cGq4OsWfmK6xjgQSr5B5eK1)     
+- [`CNN_quanta_model_with_fps_architecture_II.joblib`](https://drive.google.com/uc?export=download&id=1kJoNoc_p4cGq4OsWfmK6xjgQSr5B5eK1)
+- [`images_docking_dataset`](https://drive.google.com/drive/folders/1WUnSwanPpYyr6kFXQ8_V7coV-05ElDXI?usp=sharing)
+- [`images_docking_dataset`](https://drive.google.com/drive/folders/1UUdqdmCkI5IUQm47YODi9390a9fiM45P?usp=sharing)    
 ---
 
 ## 📌 Notes
