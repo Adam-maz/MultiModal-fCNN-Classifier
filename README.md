@@ -5,7 +5,7 @@ This repository presents the project **"fCNN – multimodal neural network bioac
 As part of this work, we developed a multimodal ligand bioactivity classifier targeting the 5-HT6 receptor. The model combines two types of molecular representations: Morgan fingerprints and images of ligands generated after simulation with **Maestro Schrödinger** (docking and DFT geometry optimization).  
 This hybrid approach combines the predictive strength of fingerprints with the resistance to overfitting provided by using images, resulting in a more robust binary classifier that performs well even on relatively small datasets
 
-![Opis alternatywny](figure/fig.png)
+![Scheme](figure/fig.png)
 
 To allow users to run the model locally, we provide a script that launches one of the four delivered pre-trained models.  
 Additionally, we offer a **plugin for Maestro Schrödinger** to automate the process of selecting molecules and generating screenshots for dataset collecting.
