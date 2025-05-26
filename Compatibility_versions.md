@@ -1,4 +1,4 @@
-**Sofware**  
+**Software**  
 Schrödinger Maestro 2025-1  
 
 **Code**  
