@@ -17,7 +17,7 @@ Additionally, we offer a **plugin for Maestro Schrödinger** to automate the pro
 - **Compatibility_versions.txt** — describes compatible versions of required libraries/frameworks  
 - **ChEMBL_Parser.ipynb** — notebook for parsing ligands from the ChEMBL database  
 - **Spreadsheet_script.ipynb** — script that generates a `.csv` file containing the "Entry ID" of the best-scoring conformer (based on "Docking Score" or "State Penalty") per ligand, from selected structures within Workspace Navigator in Maestro (select            ligands in Workspace Navigator, click right nouse button and select "Export"==>"Spreadsheet". Subsequently select desired properties ("Entry ID" and "Docking Score" or "State Penalty" and save))
-- **Screenshots_plugins_for_Maestro** — folder containing plugins for Maestro (Entry_selector.py, Screenshots_capturing_script.py) that automates molecule selection and screenshots capturing  
+- **Screenshots_plugins_for_Maestro** — folder containing plugins for Maestro (**Entry_selector.py**, **Screenshots_capturing_script.py**) that automates molecule selection and screenshots capturing  
 - **fCNN_launching_dir/** — directory containing example files (images and SMILES of two example ligands)  
 - **CNN_notebook.ipynb** — notebook implementing the CNN-based model (only images)  
 - **Fingerprints_notebook.ipynb** — notebook implementing the fingerprint-based model (only fingerprints)
