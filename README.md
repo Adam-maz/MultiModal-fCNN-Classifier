@@ -55,12 +55,10 @@ To use the `fCNN_launcher.ipynb` script:
 
 The following models and datasets are too large for GitHub (>50MB), so we provide them via **Google Drive**.  
 > Content:
-- [`CNN_docking_model_with_fps_architecture_I.joblib`]
-- [`CNN_quanta_model_with_fps_architecture_I.joblib`]
-- [`CNN_docking_model_with_fps_architecture_II.joblib`]
-- [`CNN_quanta_model_with_fps_architecture_II.joblib`]
-- [`images_docking_dataset`]
-- [`images_dft_dataset`]   
+- [`fCNNdock_multimodal_model_architecture_I.joblib`](https://drive.google.com/file/d/1fAQQxo4QdrYxfjnD4cwNalfzMFcsb_OB/view?usp=sharing)
+- [`fCNNquanta_multimodal_model_architecture_I.joblib`](https://drive.google.com/file/d/1kStrZbKaCHngcAqmHb3TxdScY46HXplI/view?usp=sharing)
+- [`images_docking_dataset`](https://drive.google.com/drive/folders/1WUnSwanPpYyr6kFXQ8_V7coV-05ElDXI?usp=sharing)
+- [`images_docking_dataset`](https://drive.google.com/drive/folders/1UUdqdmCkI5IUQm47YODi9390a9fiM45P?usp=sharing)    
 ---
 
 ## 📌 Notes
